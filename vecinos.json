@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nombre": "CARLOS ALBERTO QUIÑONES MUÑOZ",
+    "cedula": "4438681",
+    "sector": "1",
+    "direccion": "MANZANA 59 CASA 10",
+    "telefono": "3213329108",
+    "fecha_registro": "2026-02-07",
+    "pagos": ""
+  },
+  {
+    "id": "2",
+    "nombre": "",
+    "cedula": "",
+    "sector": "2",
+    "direccion": "",
+    "telefono": "",
+    "fecha_registro": "2026-02-07",
+    "pagos": ""
+  },
+  {
+    "id": "3",
+    "nombre": "",
+    "cedula": "",
+    "sector": "1",
+    "direccion": "",
+    "telefono": "",
+    "fecha_registro": "2026-02-07",
+    "pagos": ""
+  }
+]
